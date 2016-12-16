@@ -1,0 +1,10 @@
+How to use?
+===========
+
+You can import jQuery Notify from ``js.jquery_notify`` and ``need`` it where you want
+these resources to be included on a page::
+
+  >>> from js.jquery_notify import jquery_notify
+  >>> jquery_notify.need()
+
+.. _`fanstatic`: http://fanstatic.org

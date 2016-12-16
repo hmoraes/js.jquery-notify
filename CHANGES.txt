@@ -1,0 +1,7 @@
+CHANGES
+*******
+
+1.0 (2016-12-16)
+==================
+
+- Created a fanstatic for jquery-notify (https://notifyjs.com/)
